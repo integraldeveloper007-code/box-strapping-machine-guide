@@ -1,5 +1,6 @@
 # Box Strapping Machine Guide
 
+![Box Strapping Machine](pexels-yetkin-agac-664866326-34718922.jpg)
 Box strapping machines are widely used in packaging industries to secure cartons, boxes, and industrial packages during transportation and storage.
 
 These machines help improve packaging speed, reduce manual labor, and ensure strong sealing for industrial applications.
